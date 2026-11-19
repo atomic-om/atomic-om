@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=Om&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20APIs&descAlignY=60&descSize=24" alt="Om - Software Developer | Backend | APIs" />
+  <img src="./assets/header.svg" alt="Om - Software Developer | Backend | APIs" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38EF7D&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+backend+systems+⚙️;Designing+clean+REST+APIs+🔌;Automating+the+boring+stuff+🤖" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,5 +63,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer" alt="" />
+  <img src="./assets/footer.svg" alt="" />
 </p>
